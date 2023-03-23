@@ -13,8 +13,8 @@ $log->pushHandler(
 // setup your configuration		
 $config = new \PHRETS\Configuration;
 $config->setLoginUrl('http://neren.rets.paragonrels.com/rets/fnisrets.aspx/NEREN/login?rets-version=rets/1.7.2');
-$config->setUsername('619764idx');
-$config->setPassword('l8Ml4YeAv3qFFamm');
+$config->setUsername('');
+$config->setPassword('');
 $config->setRetsVersion('1.5');
 //Value shown below are the defaults used when not overridden
 $config->setOption('use_post_method', true);
